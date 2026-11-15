@@ -1,0 +1,56 @@
+case_id,field_name,value,source_file,source_page,extractor,reviewer,status
+P003,nomorPerkara,"318/PID.SUS/2026/PT SMR",putusan_318_pid.sus_2026_pt_smr_20261115031600_3.pdf,1,M Afif Maulana Susanto,Reviewer,draft
+P003,pengadilan,"Pengadilan Tinggi Kalimantan Timur",putusan_318_pid.sus_2026_pt_smr_20261115031600_3.pdf,1,M Afif Maulana Susanto,Reviewer,draft
+P003,tanggalPutusan,2026-09-17,putusan_318_pid.sus_2026_pt_smr_20261115031600_3.pdf,21,M Afif Maulana Susanto,Reviewer,draft
+P003,terdakwaKode,Terdakwa R,putusan_318_pid.sus_2026_pt_smr_20261115031600_3.pdf,1,M Afif Maulana Susanto,Reviewer,draft
+P003,jenisNarkotika,"Sabu / Metamfetamin",putusan_318_pid.sus_2026_pt_smr_20261115031600_3.pdf,3,M Afif Maulana Susanto,Reviewer,draft
+P003,beratBarangBuktiGram,4.32,putusan_318_pid.sus_2026_pt_smr_20261115031600_3.pdf,3,M Afif Maulana Susanto,Reviewer,draft
+P003,pasalDakwaan,"Pasal 114 Ayat (1) UU No 35 Tahun 2009",putusan_318_pid.sus_2026_pt_smr_20261115031600_3.pdf,2,M Afif Maulana Susanto,Reviewer,draft
+P003,pasalTerbukti,"Pasal 114 ayat (1) UU No 35 Tahun 2009",putusan_318_pid.sus_2026_pt_smr_20261115031600_3.pdf,13,M Afif Maulana Susanto,Reviewer,draft
+P003,tuntutanBulan,72,putusan_318_pid.sus_2026_pt_smr_20261115031600_3.pdf,3,M Afif Maulana Susanto,Reviewer,draft
+P003,vonisBulan,60,putusan_318_pid.sus_2026_pt_smr_20261115031600_3.pdf,4,M Afif Maulana Susanto,Reviewer,draft
+P003,dendaRupiah,0,putusan_318_pid.sus_2026_pt_smr_20261115031600_3.pdf,16,M Afif Maulana Susanto,Reviewer,draft
+P003,barangBukti,"2 paket sabu, 4 plastik klip kosong, 1 timbangan digital, 1 sendok takar, 1 botol HAPPYDENT, 1 HP VIVO T1 5G, Uang tunai Rp1.000.000",putusan_318_pid.sus_2026_pt_smr_20261115031600_3.pdf,3,M Afif Maulana Susanto,Reviewer,draft
+P003,keadaanMemberatkan,"Tindak pidana serius",putusan_318_pid.sus_2026_pt_smr_20261115031600_3.pdf,17,M Afif Maulana Susanto,Reviewer,draft
+P003,keadaanMeringankan,"Belum pernah dihukum, berterus terang, menyesal, status mahasiswa",putusan_318_pid.sus_2026_pt_smr_20261115031600_3.pdf,17,M Afif Maulana Susanto,Reviewer,draft
+P495,nomorPerkara,495/Pid.Sus/2026/PN Smr,putusan_495_pid.sus_2026_pn_smr_20261108002237_7.pdf,1,M Afif Maulana Susanto,User,unverified
+P495,pengadilan,Pengadilan Negeri Samarinda,putusan_495_pid.sus_2026_pn_smr_20261108002237_7.pdf,1,M Afif Maulana Susanto,User,unverified
+P495,terdakwaKode,AI,putusan_495_pid.sus_2026_pn_smr_20261108002237_7.pdf,1,M Afif Maulana Susanto,User,unverified
+P495,jenisNarkotika,Sabu,putusan_495_pid.sus_2026_pn_smr_20261108002237_7.pdf,2,M Afif Maulana Susanto,User,unverified
+P495,beratBarangBuktiGram,0.64,putusan_495_pid.sus_2026_pn_smr_20261108002237_7.pdf,5,M Afif Maulana Susanto,User,unverified
+P495,pasalDakwaan,"Pasal 114 Ayat (1) UU RI Nomor 35 Tahun 2009 Tentang Narkotika, Pasal 609 Ayat (1) huruf a Undang-Undang RI Nomor 1 Tahun 2026",putusan_495_pid.sus_2026_pn_smr_20261108002237_7.pdf,6,M Afif Maulana Susanto,User,unverified
+P495,pasalTerbukti,Pasal 114 Ayat (1) UU RI Nomor 35 Tahun 2009 Tentang Narkotika,putusan_495_pid.sus_2026_pn_smr_20261108002237_7.pdf,25,M Afif Maulana Susanto,User,unverified
+P495,tuntutanBulan,48,putusan_495_pid.sus_2026_pn_smr_20261108002237_7.pdf,2,M Afif Maulana Susanto,User,unverified
+P495,vonisBulan,36,putusan_495_pid.sus_2026_pn_smr_20261108002237_7.pdf,26,M Afif Maulana Susanto,User,unverified
+P495,dendaRupiah,1000000000,putusan_495_pid.sus_2026_pn_smr_20261108002237_7.pdf,26,M Afif Maulana Susanto,User,unverified
+P495,barangBukti,"Sabu, bungkus rokok WIN CLICK, sendok penakar, plastik klip, tas selempang, Handphone Samsung, Uang tunai",putusan_495_pid.sus_2026_pn_smr_20261108002237_7.pdf,26,M Afif Maulana Susanto,User,unverified
+P495,keadaanMemberatkan,"Perbuatan Terdakwa meresahkan masyarakat; Perbuatan Terdakwa tidak mendukung upaya pemerintah dalam memberantas tindak pidana Narkotika",putusan_495_pid.sus_2026_pn_smr_20261108002237_7.pdf,25,M Afif Maulana Susanto,User,unverified
+P495,keadaanMeringankan,"Terdakwa mengakui dan menyesali perbuatannya; Terdakwa belum pernah dihukum",putusan_495_pid.sus_2026_pn_smr_20261108002237_7.pdf,25,M Afif Maulana Susanto,User,unverified
+P322,nomorPerkara,"322/PID.SUS/2026/PT SMR",putusan_322_pid.sus_2026_pt_smr_20261115031550_4.pdf,1,M Afif Maulana Susanto,User,draft
+P322,pengadilan,"Pengadilan Tinggi Kalimantan Timur",putusan_322_pid.sus_2026_pt_smr_20261115031550_4.pdf,1,M Afif Maulana Susanto,User,draft
+P322,tanggalPutusan,2026-09-22,putusan_322_pid.sus_2026_pt_smr_20261115031550_4.pdf,22,M Afif Maulana Susanto,User,draft
+P322,terdakwaKode,Terdakwa MSH,putusan_322_pid.sus_2026_pt_smr_20261115031550_4.pdf,1,M Afif Maulana Susanto,User,draft
+P322,jenisNarkotika,"Sabu / Metamfetamin",putusan_322_pid.sus_2026_pt_smr_20261115031550_4.pdf,9,M Afif Maulana Susanto,User,draft
+P322,beratBarangBuktiGram,116.31,putusan_322_pid.sus_2026_pt_smr_20261115031550_4.pdf,12,M Afif Maulana Susanto,User,draft
+P322,pasalDakwaan,"Pasal 114 Ayat (2) UU No 35 Tahun 2009 atau Pasal 609 Ayat (2) huruf a UU No 1 Tahun 2023",putusan_322_pid.sus_2026_pt_smr_20261115031550_4.pdf,2,M Afif Maulana Susanto,User,draft
+P322,pasalTerbukti,"Pasal 114 Ayat (2) UU No 35 Tahun 2009 Jo. UU No 1 Tahun 2026",putusan_322_pid.sus_2026_pt_smr_20261115031550_4.pdf,13,M Afif Maulana Susanto,User,draft
+P322,tuntutanBulan,84,putusan_322_pid.sus_2026_pt_smr_20261115031550_4.pdf,3,M Afif Maulana Susanto,User,draft
+P322,vonisBulan,72,putusan_322_pid.sus_2026_pt_smr_20261115031550_4.pdf,21,M Afif Maulana Susanto,User,draft
+P322,dendaRupiah,0,putusan_322_pid.sus_2026_pt_smr_20261115031550_4.pdf,19,M Afif Maulana Susanto,User,draft
+P322,barangBukti,"Sabu total 116,31 gram netto, tissue, 2 timbangan digital, sendok penakar, plastik klip, palu kecil, nampan, alat press, tabung mikrosentrifus, HP Redmi, motor Honda PCX",putusan_322_pid.sus_2026_pt_smr_20261115031550_4.pdf,21,M Afif Maulana Susanto,User,draft
+P322,keadaanMemberatkan,"Perbuatan Terdakwa meresahkan masyarakat dan tidak mendukung program pemerintahan tentang pemberantasan Narkoba",putusan_322_pid.sus_2026_pt_smr_20261115031550_4.pdf,20,M Afif Maulana Susanto,User,draft
+P322,keadaanMeringankan,"Terdakwa mengakui dan menyesali perbuatannya; Terdakwa masih dimungkinkan untuk memperbaiki perbuatannya setelah menjalani pemidanaan",putusan_322_pid.sus_2026_pt_smr_20261115031550_4.pdf,20,M Afif Maulana Susanto,User,draft
+P344,nomorPerkara,"344/PID.SUS/2026/PT SMR",putusan_344_pid.sus_2026_pt_smr_20261115023822_5.pdf,1,M Afif Maulana Susanto,User,draft
+P344,pengadilan,"Pengadilan Tinggi Kalimantan Timur",putusan_344_pid.sus_2026_pt_smr_20261115023822_5.pdf,1,M Afif Maulana Susanto,User,draft
+P344,tanggalPutusan,2026-10-13,putusan_344_pid.sus_2026_pt_smr_20261115023822_5.pdf,21,M Afif Maulana Susanto,User,draft
+P344,terdakwaKode,"Terdakwa I MA, Terdakwa II MI",putusan_344_pid.sus_2026_pt_smr_20261115023822_5.pdf,1,M Afif Maulana Susanto,User,draft
+P344,jenisNarkotika,"Sabu-sabu (Metamfetamina)",putusan_344_pid.sus_2026_pt_smr_20261115023822_5.pdf,9,M Afif Maulana Susanto,User,draft
+P344,beratBarangBuktiGram,1.11,putusan_344_pid.sus_2026_pt_smr_20261115023822_5.pdf,16,M Afif Maulana Susanto,User,draft
+P344,pasalDakwaan,"Pasal 114 ayat (1) atau Pasal 609 ayat (1) huruf a UU RI No. 1 Tahun 2023",putusan_344_pid.sus_2026_pt_smr_20261115023822_5.pdf,3,M Afif Maulana Susanto,User,draft
+P344,pasalTerbukti,"Dakwaan alternatif Kesatu Penuntut Umum",putusan_344_pid.sus_2026_pt_smr_20261115023822_5.pdf,20,M Afif Maulana Susanto,User,draft
+P344,tuntutanBulan,42,putusan_344_pid.sus_2026_pt_smr_20261115023822_5.pdf,4,M Afif Maulana Susanto,User,draft
+P344,vonisBulan,48,putusan_344_pid.sus_2026_pt_smr_20261115023822_5.pdf,20,M Afif Maulana Susanto,User,draft
+P344,dendaRupiah,0,putusan_344_pid.sus_2026_pt_smr_20261115023822_5.pdf,20,M Afif Maulana Susanto,User,draft
+P344,barangBukti,"9 bungkus sabu berat bersih 1,11 gram, 1 bendel kantong plastik klip, 1 buah lakban kotak abu-abu, HP VIVO Y17, HP SAMSUNG GALAXY A02s",putusan_344_pid.sus_2026_pt_smr_20261115023822_5.pdf,20,M Afif Maulana Susanto,User,draft
+P344,keadaanMemberatkan,"Perbuatan para terdakwa sangat membahayakan masyarakat secara luas, Terdakwa I pernah melakukan tindak pidana sejenis.",putusan_344_pid.sus_2026_pt_smr_20261115023822_5.pdf,18,M Afif Maulana Susanto,User,draft
+P344,keadaanMeringankan,"-",putusan_344_pid.sus_2026_pt_smr_20261115023822_5.pdf,18,M Afif Maulana Susanto,User,draft

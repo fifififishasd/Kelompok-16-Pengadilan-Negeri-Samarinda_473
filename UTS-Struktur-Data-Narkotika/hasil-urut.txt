@@ -1,0 +1,57 @@
+LAPORAN DATA PUTUSAN NARKOTIKA
+Jumlah data: 3
+==================================================
+Data ke-1
+Case ID: PN-CONTOH-002
+Nomor perkara: 12/Pid.Sus/2026/PN X
+Pengadilan: Pengadilan Negeri Contoh X
+Tanggal putusan: 2026-08-12
+Terdakwa kode: T-002
+Jenis narkotika: Ganja
+Berat netto (gram): 3.5
+Pasal dakwaan: Pasal 111 UU 35/2009
+Pasal terbukti: Pasal 111 UU 35/2009
+Tuntutan (bulan): 30
+Vonis (bulan): 24
+Denda (rupiah): 500000000
+Barang bukti: Daun ganja
+Keadaan memberatkan: Perbuatan meresahkan
+Keadaan meringankan: Belum pernah dihukum
+Source pages: 1-5,18
+--------------------------------------------------
+Data ke-2
+Case ID: PN495
+Nomor perkara: 495/Pid.Sus/2026/PN Smr
+Pengadilan: Pengadilan Negeri Samarinda
+Tanggal putusan: 2026-10-05
+Terdakwa kode: T-001
+Jenis narkotika: Sabu (Metamfetamina)
+Berat netto (gram): 0.64
+Pasal dakwaan: Pasal 114 Ayat (1) UU 35/2009
+Pasal terbukti: Pasal 114 Ayat (1) UU 35/2009
+Tuntutan (bulan): 48
+Vonis (bulan): 36
+Denda (rupiah): 1000000000
+Barang bukti: 6 poket sabu; bungkus rokok WIN CLICK
+Keadaan memberatkan: Meresahkan masyarakat
+Keadaan meringankan: Mengakui dan menyesali perbuatan
+Source pages: 2-7,12,20,25-26
+--------------------------------------------------
+Data ke-3
+Case ID: PN-CONTOH-003
+Nomor perkara: 20/Pid.Sus/2026/PN Y
+Pengadilan: Pengadilan Negeri Contoh Y
+Tanggal putusan: 2026-09-01
+Terdakwa kode: T-003
+Jenis narkotika: Sabu (Metamfetamina)
+Berat netto (gram): 1.2
+Pasal dakwaan: Pasal 114 UU 35/2009
+Pasal terbukti: Pasal 114 UU 35/2009
+Tuntutan (bulan): 60
+Vonis (bulan): 48
+Denda (rupiah): 1000000000
+Barang bukti: Paket sabu
+Keadaan memberatkan: Meresahkan masyarakat
+Keadaan meringankan: Mengakui perbuatan
+Source pages: 2-6,20-24
+--------------------------------------------------
